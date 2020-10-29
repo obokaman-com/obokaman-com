@@ -18,8 +18,8 @@
 </p>
 
 #### 📝  Latest articles on [my personal blog](https://albert.garcia.gibert.es "Albert García"):
+- [CryptoAdvisor.Club: El asistente virtual para invertir en criptomonedas](https://albert.garcia.gibert.es/nuevo-proyecto-playground-chatbots-cryptoadvisor/)
 - [Perdent el Nord: cuando homenajeamos la BS de Stardust](https://albert.garcia.gibert.es/perdent-el-nord-stardust/)
 - [Cover@🏠 de Let Met Entertain You](https://albert.garcia.gibert.es/cover-let-me-entertain-you-drinksco/)
 - [Despedida y cierre de Obolog](https://albert.garcia.gibert.es/despedida-cierre-obolog/)
 - [El de cuando salí de Uvinum](https://albert.garcia.gibert.es/cuando-sali-de-uvinum/)
-- [Amstrad CPC 464: contigo empezó todo](https://albert.garcia.gibert.es/amstrad-cpc-464-contigo-empezo-todo/)
