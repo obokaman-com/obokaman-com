@@ -18,8 +18,8 @@
 </p>
 
 #### 📝  Latest articles on [my personal blog](https://albert.garcia.gibert.es "Albert García"):
+- [Google Sheet para facilitar seguimiento de tus finanzas y patrimonio](https://albert.garcia.gibert.es/google-sheet-seguimiento-finanzas-patrimonio/)
 - [El de cuando hicimos el logotipo de CryptoAdvisor.Club](https://albert.garcia.gibert.es/logotipo-cryptoadvisor/)
 - [El making of de CryptoAdvisor.Club](https://albert.garcia.gibert.es/criptoadvisor-como-se-hizo/)
 - [CryptoAdvisor.Club: El asistente virtual para invertir en criptomonedas](https://albert.garcia.gibert.es/nuevo-proyecto-playground-chatbots-cryptoadvisor/)
 - [Perdent el Nord: cuando homenajeamos la BS de Stardust](https://albert.garcia.gibert.es/perdent-el-nord-stardust/)
-- [Cover@🏠 de Let Met Entertain You](https://albert.garcia.gibert.es/cover-let-me-entertain-you-drinksco/)
