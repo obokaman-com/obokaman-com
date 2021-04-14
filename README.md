@@ -1,6 +1,6 @@
 ![Image header](https://raw.githubusercontent.com/obokaman-com/obokaman-com/master/github-header.png)
 
-<p align="center">Co-founder and former CTO@Uvinum. Now starting a new venture!</p>
+<p align="center">Building <a href="https://cryptoadvisor.club">CryptoAdvisor.Club</a> and learning at <a href="https://www.krakend.io">KrakenD</a>. Co-founder and former CTO@Uvinum.</p>
 
 <p align="center">
     <a href="https://twitter.com/obokaman" target="blank">
